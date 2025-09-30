@@ -35,9 +35,7 @@ Step 1: (Launch an EC2 instance)
 -   User data (Copy the following user data): <https://github.com/UtamaDalington/Maven-SonarQube-Nexus-Jenkins-installations/blob/main/install-docker.sh>
 -   Launch Instance
 
-![](https://miro.medium.com/v2/resize:fit:700/1*EUdb-Nvytl3eoLMDy2H3Ag.png)
-
-Security Groups Configurations
+![Security Groups Configurations](https://miro.medium.com/v2/resize:fit:700/1*EUdb-Nvytl3eoLMDy2H3Ag.png)
 
 Step 2: (Configure the EC2 instance)
 ------------------------------------
@@ -46,16 +44,17 @@ Follow the commands in the script to install Apache HTTP Server, WordPress, and 
 
 -   User data (Copy the following user data): <https://github.com/UtamaDalington/Maven-SonarQube-Nexus-Jenkins-installations/blob/main/docker-install-wordpress.md>
 
-![](https://miro.medium.com/v2/resize:fit:700/1*TJPuVXMxBypAqdsRnfh9PQ.png)
-
-EC2 Instance Configurations
+![EC2 Instance Configurations](https://miro.medium.com/v2/resize:fit:700/1*TJPuVXMxBypAqdsRnfh9PQ.png)
 
 Step 3: (Congratulations)
 -------------------------
 
-Your WordPress Application is now up and running.\
-Access Application with: [http://EC2_Public_IP:8080](http://ec2_public_ip:8080/)
+Your WordPress Application is now up and running.
 
-![](https://miro.medium.com/v2/resize:fit:700/1*6na_PQR3oM_vK5gPLUlu0g.png)
+-   Access Application with: [http://EC2_Public_IP:8080](http://ec2_public_ip:8080/)
 
-WordPress Application
+![WordPress Application](https://miro.medium.com/v2/resize:fit:700/1*6na_PQR3oM_vK5gPLUlu0g.png)
+
+![WordPress Application](https://miro.medium.com/v2/resize:fit:700/1*j-gjHsp4ekkFD911h7D6aA.png)
+
+![WordPress Application](https://miro.medium.com/v2/resize:fit:700/1*u6LWJ5JVqiOhhOqfobMuuw.png)
